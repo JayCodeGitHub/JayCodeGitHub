@@ -1,5 +1,7 @@
 # Hi 👋, I'm Jakub - Frontend Developer #
-### A passionate frontend developer from Poland ###
+### I'm a passionate frontend developer from Poland. Currently I focus on developing my skills through my projects. I have experience in commercial projects and working with clients. ###
+
+<br/>
 
 
 - 🌱 I’m currently learning **React**, **NEXT.JS**, **TypeScript**
