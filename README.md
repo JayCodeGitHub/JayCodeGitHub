@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **React**, **NEXT.JS**, **TypeScript**
 
-- 📫 How to reach me **Email: jakub.gryzinski@gmail.comn**
+- 📫 How to reach me **Email: jakub.gryzinski@gmail.com**
 
 <br/>
 
