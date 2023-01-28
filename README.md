@@ -21,8 +21,8 @@
 ## Statistics: ##
 
 <span>
-<img height="150px" src="https://github-readme-stats.vercel.app/api?username=JayCodeGitHub&show_icons=true&locale=en&theme=transparent" alt="JayCodeGitHub" />
+<img height="170px" src="https://github-readme-stats.vercel.app/api?username=JayCodeGitHub&show_icons=true&locale=en&theme=transparent" alt="JayCodeGitHub" />
 </span>
 <span>
-<img  height="150px" src="https://github-readme-stats.vercel.app/api/top-langs?username=JayCodeGitHub&show_icons=true&locale=en&layout=compact&theme=transparent" alt="JayCodeGitHub" /> 
+<img  height="170px" src="https://github-readme-stats.vercel.app/api/top-langs?username=JayCodeGitHub&show_icons=true&locale=en&layout=compact&theme=transparent" alt="JayCodeGitHub" /> 
 </span>
