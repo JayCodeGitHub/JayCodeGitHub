@@ -1,4 +1,4 @@
-<img alt="Hello I'm Jakub - Frontend Developer" align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1000&color=A66FFF&center=false&vCenter=true&width=435&lines=Hello+I'm+Jakub+-+Frontend+Developer">
+<img alt="Hello I'm Jakub - Frontend Developer" align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1000&color=2233FF&center=false&vCenter=true&width=435&lines=Hello+I'm+Jakub+-+Frontend+Developer">
 
  I'm a passionate frontend developer from Poland. Currently I focus on developing my skills through my projects. I have experience in commercial projects and working with clients.
 
