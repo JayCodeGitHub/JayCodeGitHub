@@ -2,14 +2,9 @@
 
  I'm a passionate frontend developer from Poland. Currently I focus on developing my skills through my projects. I have experience in commercial projects and working with clients.
 
-<br/>
-
-
 - 🌱 I’m currently learning **React**, **NEXT.JS**, **TypeScript**
 
 - 📫 How to reach me **Email: jakub.gryzinski@gmail.com**
-
-<br/>
 
 ## The most important projects ##
 
@@ -17,14 +12,9 @@
 
 - Full stack notes application with user authentication and database [Happy Notes](https://github.com/JayCodeGitHub/Happy-Notes)
 
-<br/>
-
 ## Tech Stack: ##
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,git,react,redux,next,gatsby,graphql,sass,tailwind,webpack,docker,figma,nodejs,bash)](https://skillicons.dev)
-
-<br/>
-
 
 ## Statistics: ##
 
