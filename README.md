@@ -6,6 +6,8 @@
 
 - 📫 How to reach me **Email: jakub.gryzinski@gmail.com**
 
+- Checkout my personal portfolio website [JayCode](https://jaycode.netlify.app/)
+
 ## The most important projects ##
 
 - Commercial website for a local sports club [Champion Academy](https://github.com/JayCodeGitHub/Final-Champion-Academy)
