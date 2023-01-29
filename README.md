@@ -11,6 +11,14 @@
 
 <br/>
 
+## The most important projects ##
+
+- Commercial website for a local sports club [Champion Academy](https://github.com/JayCodeGitHub/Final-Champion-Academy)
+
+- Full stack application with notes [Happy Notes](https://github.com/JayCodeGitHub/Happy-Notes)
+
+<br/>
+
 ## Tech Stack: ##
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,git,react,redux,next,gatsby,graphql,sass,tailwind,webpack,docker,figma,nodejs,bash)](https://skillicons.dev)
