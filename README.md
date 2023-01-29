@@ -15,7 +15,7 @@
 
 - Commercial website for a local sports club [Champion Academy](https://github.com/JayCodeGitHub/Final-Champion-Academy)
 
-- Full stack application with notes [Happy Notes](https://github.com/JayCodeGitHub/Happy-Notes)
+- Full stack notes application with user authentication and database [Happy Notes](https://github.com/JayCodeGitHub/Happy-Notes)
 
 <br/>
 
