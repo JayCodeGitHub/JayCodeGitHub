@@ -6,13 +6,13 @@
 
 - 📫 How to reach me **Email: jakub.gryzinski@gmail.com**
 
-- Checkout my personal portfolio website [JayCode](https://jaycode.netlify.app/)
+- Checkout my personal portfolio website **[JayCode](https://jaycode.netlify.app/)**
 
 ## The most important projects ##
 
-- Commercial website for a local sports club [Champion Academy](https://github.com/JayCodeGitHub/Final-Champion-Academy)
+- Commercial website for a local sports club **[Champion Academy](https://github.com/JayCodeGitHub/Final-Champion-Academy)**
 
-- Full stack notes application with user authentication and database [Happy Notes](https://github.com/JayCodeGitHub/Happy-Notes)
+- Full stack notes application with user authentication and database **[Happy Notes](https://github.com/JayCodeGitHub/Happy-Notes)**
 
 ## Tech Stack: ##
 
