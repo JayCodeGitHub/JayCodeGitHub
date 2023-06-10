@@ -10,7 +10,7 @@
 
 ## The most important projects ##
 
-- Commercial website for a local sports club **[Champion Academy](https://github.com/JayCodeGitHub/Final-Champion-Academy)**
+- Commercial website for a local sports club **[Karate Team Oborniki](https://karate-team.netlify.app/)**
 
 - Full stack notes application with user authentication and database **[Happy Notes](https://github.com/JayCodeGitHub/Happy-Notes)**
 
