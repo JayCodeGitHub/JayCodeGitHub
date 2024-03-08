@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **Email: jakub.gryzinski@gmail.com**
 
-- Checkout my personal portfolio website **[JayCode](https://jaycode.pl/)**
+- Checkout my personal portfolio website **[JayCode](https://jaycode-pl.vercel.app/)**
 
 ## The most important projects ##
 
