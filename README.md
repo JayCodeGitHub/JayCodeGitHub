@@ -8,11 +8,15 @@
 
 - Checkout my personal portfolio website **[JayCode](https://jaycode-pl.vercel.app/)**
 
-## The most important projects ##
+## Experience & Projects ##
 
-- Commercial website for a local sports club **[Karate Team Oborniki](https://final-karate-team.netlify.app/)**
+- I worked as a freelancer gaining experience in delivering value to clients. I learned how to best adapt technology to my client's expectations. **[Karate Team Oborniki](https://final-karate-team.netlify.app/)** website is my latest project. For building client applications, I used:
+  <br>
+**React**, **Astro**, **SASS**, **Tailwind CSS**, **GraphQL**
 
-- Full stack notes application with user authentication and database **[Happy Notes](https://happy-notes-pl.vercel.app/notes)**
+- **[Happy Notes](https://happy-notes-pl.vercel.app/notes)** is a Next.js application for creating and organizing notes adapted for PWA. It also has powerful state management mechanisms to handle notes and application settings for the best User Experience. It's built with: <br> **TypeScript**, **Next.js**, **Tailwind CSS**, **Redux**, **Framer Motion**
+
+- **[Clothify](https://clothify-app.vercel.app/shop)** is an online clothing store application using Next js with Headless CMS and automatic page generation for improved performance. The application has implemented user authentication and extensive state management mechanics to handle authentication and shopping cart. It's built with: <br> **TypeScript**, **Next.js**, **Tailwind CSS**, **Framer Motion**, **Prisma**
 
 ## Tech Stack: ##
 
