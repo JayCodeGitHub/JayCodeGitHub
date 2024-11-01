@@ -1,12 +1,14 @@
 <img alt="Hello I'm Jakub - Frontend Developer" align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1000&color=006AFF&center=false&vCenter=true&width=435&lines=Hello+I'm+Jakub+-+Frontend+Developer">
 
- I'm a passionate frontend developer from Poland. Currently I focus on developing my skills through my projects. I have experience in commercial projects and working with clients.
+ I'm Jakub a passionate frontend developer from Poland. I am currently working  at **[Ventcode](https://ventcode.com/)** as a JavaScript Developer. Every day I develop software, creating products for clients and developing my skills in Full Stack Development.
 
-- 🌱 I’m currently learning **React**, **NEXT.JS**, **TypeScript**, **Neural Networks**
+- 🌱 I’m currently learning **Neural Networks**, **Full Stack Development**
 
-- 📫 How to reach me **Email: jakub.gryzinski@gmail.com**
+- 📫 How to reach me **[LinkedIn](https://www.linkedin.com/in/jakub-gryzi%C5%84ski-b00296264/)**
 
-- Checkout my personal portfolio website **[JayCode](https://jaycode-pl.vercel.app/)** and **[My CV](https://drive.google.com/file/d/1X1U-XW9mIOJ3B3jUPhQrzKB6FKEXApam/view)**
+- Checkout my personal portfolio website **[JayCode](https://jaycode-pl.vercel.app/)** <!-- and **[My CV](https://drive.google.com/file/d/1X1U-XW9mIOJ3B3jUPhQrzKB6FKEXApam/view)** -->
+
+<!-- 
 
 ## Experience & Projects ##
 
@@ -22,6 +24,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,git,react,redux,next,gatsby,graphql,sass,tailwind,webpack,docker,figma,nodejs,bash)](https://skillicons.dev)
 
+-->
 ## Statistics: ##
 
 <span>
